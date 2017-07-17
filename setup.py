@@ -11,8 +11,8 @@ with open('LICENSE') as f:
 
 setup(
     name='vcflow',
-    version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    version='0.1.1',
+    description='SDN/OpenFlow dynamic circuit provisioning system',
     long_description=readme,
     author='Pedro Diniz',
     author_email='pedrodiniz983@gmail.com',
